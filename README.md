@@ -10,6 +10,6 @@ REQUIRE
 
 USUAGE
 ==============
- $perl get_senstrength.pl input_file output_file
- $perl get_senstrength.pl input/example.dat output
+    $perl get_senstrength.pl input_file output_file
+    $perl get_senstrength.pl input/example.dat output
  
